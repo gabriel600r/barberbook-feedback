@@ -21,11 +21,15 @@ Pensata per barbieri e parrucchieri che vogliono organizzarsi senza complicazion
 
 ## 📅 AGENDA INTELLIGENTE
 
-Visualizza tutti gli appuntamenti del giorno in un colpo d'occhio. Scorri per cambiare giorno, tocca per i dettagli, riprogramma o cancella individualmente o in blocco.
+Visualizza tutti gli appuntamenti del giorno in un colpo d'occhio. Scorri per cambiare giorno, tocca per i dettagli, riprogramma o cancella individualmente o in blocco. Aggiungi più servizi allo stesso appuntamento: durata e prezzo si sommano da soli.
 
 ## 🎙️ APPUNTAMENTI CON LA VOCE
 
 Prenota parlando: "Pedro domani alle 10 taglio e barba". BarberBook capisce nome, data, ora e servizio automaticamente.
+
+## 📲 RICHIESTE SU WHATSAPP
+
+Condividi il tuo link o il tuo codice QR perché i clienti ti chiedano un appuntamento su WhatsApp, con il messaggio già scritto. E invia gli orari che hai ancora liberi, pronti con un tocco.
 
 ## 💬 PROMEMORIA VIA WHATSAPP
 
@@ -56,6 +60,7 @@ BarberBook è completamente in italiano — interfaccia, notifiche, promemoria e
 - Appuntamenti illimitati
 - Fino a 50 clienti, 15 servizi e 3 barbieri
 - Appuntamenti vocali e promemoria WhatsApp
+- Link e QR per ricevere richieste su WhatsApp, e orari liberi pronti da inviare
 - Scheda clienti con storico e classificazione
 - Metriche di guadagni e servizi
 - Avviso notturno del giorno successivo

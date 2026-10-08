@@ -21,11 +21,15 @@ Built for barbers and hairdressers who want to stay organized without the hassle
 
 ## 📅 SMART SCHEDULING
 
-See all your appointments at a glance. Swipe to change days, tap for details, reschedule or cancel individually or in bulk.
+See all your appointments at a glance. Swipe to change days, tap for details, reschedule or cancel individually or in bulk. Add several services to one appointment: time and price add up on their own.
 
 ## 🎙️ VOICE BOOKING
 
 Book by speaking: "Pedro tomorrow at 10 haircut and beard trim". BarberBook understands the name, date, time, and service automatically.
+
+## 📲 BOOKING REQUESTS ON WHATSAPP
+
+Share your link or QR code so your clients can ask for an appointment on WhatsApp, with the message already written. And send them your free times, put together in one tap.
 
 ## 💬 WHATSAPP REMINDERS
 
@@ -52,6 +56,7 @@ Your agenda is stored only on your phone, with no external servers and no sign-u
 - Unlimited appointments
 - Up to 50 clients, 15 services and 3 barbers
 - Voice booking & WhatsApp reminders
+- Link and QR code for booking requests on WhatsApp, and free times ready to send
 - Client profiles with history and rating
 - Revenue & service metrics
 - Next-day appointment alert

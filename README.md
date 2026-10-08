@@ -21,11 +21,15 @@ Pensada para barberos y peluqueros que quieren organizarse sin complicaciones. G
 
 ## 📅 AGENDA INTELIGENTE
 
-Visualizá todos tus turnos del día de un vistazo. Deslizá para cambiar de día, tocá para ver los detalles, reprogramá o cancelá turnos de forma individual o en lote.
+Visualizá todos tus turnos del día de un vistazo. Deslizá para cambiar de día, tocá para ver los detalles, reprogramá o cancelá turnos de forma individual o en lote. Sumá varios servicios en un mismo turno: el tiempo y el precio se suman solos.
 
 ## 🎙️ TURNOS POR VOZ
 
 Cargá turnos hablando. Decí "Pedro mañana a las 10 corte y barba" y BarberBook lo interpreta automáticamente. Ideal para cuando tenés las manos ocupadas.
+
+## 📲 TURNOS POR WHATSAPP
+
+Compartí tu enlace o tu código QR para que tus clientes te pidan turno por WhatsApp, con el mensaje ya escrito. Y mandales los horarios que te quedan libres, armados con un toque.
 
 ## 💬 RECORDATORIOS POR WHATSAPP
 
@@ -52,6 +56,7 @@ Tu agenda se guarda sólo en tu teléfono, sin servidores externos ni registro. 
 - Turnos ilimitados
 - Hasta 50 clientes, 15 servicios y 3 barberos
 - Turnos por voz y recordatorios WhatsApp
+- Enlace y QR para pedir turno por WhatsApp, y horarios libres listos para mandar
 - Ficha de clientes con historial y clasificación
 - Métricas de ingresos y servicios
 - Aviso nocturno del día siguiente
