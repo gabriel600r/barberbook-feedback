@@ -23,6 +23,10 @@ Built for barbers and hairdressers who want to stay organized without the hassle
 
 See all your appointments at a glance. Swipe to change days, tap for details, reschedule or cancel individually or in bulk. Add several services to one appointment: time and price add up on their own.
 
+## 💻 ON YOUR COMPUTER TOO
+
+Turn the portal on in the app and open your agenda in the browser of a PC on your same Wi-Fi: the whole week on a big screen. Nothing to install on the computer and no account to create, and your data never leaves your network.
+
 ## 🎙️ VOICE BOOKING
 
 Book by speaking: "Pedro tomorrow at 10 haircut and beard trim". BarberBook understands the name, date, time, and service automatically.
@@ -57,13 +61,14 @@ Your agenda is stored only on your phone, with no external servers and no sign-u
 - Up to 50 clients, 15 services and 3 barbers
 - Voice booking & WhatsApp reminders
 - Link and QR code for booking requests on WhatsApp, and free times ready to send
+- Your agenda on your computer: day and week, over your Wi-Fi
 - Client profiles with history and rating
 - Revenue & service metrics
 - Next-day appointment alert
 
 ## ⭐ BARBERBOOK PRO
 
-No ads. Unlimited clients, services and barbers on your team, plus a backup you can carry to another phone. 7 days free; cancel anytime from Google Play.
+No ads. Unlimited clients, services and barbers on your team, plus a backup you can carry to another phone. From your computer you also book, move and complete appointments. 7 days free; cancel anytime from Google Play.
 
 Developed by EgeaINC — Gabriel Egea.
 

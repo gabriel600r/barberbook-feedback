@@ -23,6 +23,10 @@ Pensada para barberos y peluqueros que quieren organizarse sin complicaciones. G
 
 Visualizá todos tus turnos del día de un vistazo. Deslizá para cambiar de día, tocá para ver los detalles, reprogramá o cancelá turnos de forma individual o en lote. Sumá varios servicios en un mismo turno: el tiempo y el precio se suman solos.
 
+## 💻 TAMBIÉN EN TU COMPUTADORA
+
+Prendé el portal en la app y abrí tu agenda en el navegador de una PC de tu mismo Wi-Fi: la semana entera a pantalla grande. No hay que instalar nada en la computadora ni crear una cuenta, y tus datos no salen de tu red.
+
 ## 🎙️ TURNOS POR VOZ
 
 Cargá turnos hablando. Decí "Pedro mañana a las 10 corte y barba" y BarberBook lo interpreta automáticamente. Ideal para cuando tenés las manos ocupadas.
@@ -57,13 +61,14 @@ Tu agenda se guarda sólo en tu teléfono, sin servidores externos ni registro. 
 - Hasta 50 clientes, 15 servicios y 3 barberos
 - Turnos por voz y recordatorios WhatsApp
 - Enlace y QR para pedir turno por WhatsApp, y horarios libres listos para mandar
+- Tu agenda en la computadora: día y semana, por tu Wi-Fi
 - Ficha de clientes con historial y clasificación
 - Métricas de ingresos y servicios
 - Aviso nocturno del día siguiente
 
 ## ⭐ BARBERBOOK PRO
 
-Sin publicidad. Clientes, servicios y barberos del equipo sin límite, más copia de seguridad para llevarte todo a otro teléfono. 7 días gratis; cancelás cuando quieras desde Google Play.
+Sin publicidad. Clientes, servicios y barberos del equipo sin límite, más copia de seguridad para llevarte todo a otro teléfono. Desde la computadora también agendás, movés y completás turnos. 7 días gratis; cancelás cuando quieras desde Google Play.
 
 Desarrollada por EgeaINC — Gabriel Egea.
 

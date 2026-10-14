@@ -23,6 +23,10 @@ Feita para barbeiros e cabeleireiros que querem se organizar sem complicações.
 
 Veja todos os horários do dia de uma vez. Deslize para mudar de dia, toque para ver os detalhes, reagende ou cancele horários individualmente ou em lote. Inclua vários serviços no mesmo agendamento: o tempo e o preço se somam sozinhos.
 
+## 💻 TAMBÉM NO SEU COMPUTADOR
+
+Ligue o portal no app e abra a sua agenda no navegador de um PC do seu mesmo Wi-Fi: a semana inteira em tela grande. Não é preciso instalar nada no computador nem criar conta, e os seus dados não saem da sua rede.
+
 ## 🎙️ AGENDAMENTO POR VOZ
 
 Agende falando: "Pedro amanhã às 10 corte e barba". O BarberBook entende o nome, a data, o horário e o serviço automaticamente.
@@ -57,13 +61,14 @@ Sua agenda fica só no seu telefone, sem servidores externos e sem cadastro. Nun
 - Até 50 clientes, 15 serviços e 3 barbeiros
 - Agendamento por voz e lembretes WhatsApp
 - Link e QR code para receber pedidos pelo WhatsApp, e horários livres prontos para enviar
+- A sua agenda no computador: dia e semana, pelo seu Wi-Fi
 - Ficha de clientes com histórico e classificação
 - Métricas de receita e serviços
 - Aviso noturno do dia seguinte
 
 ## ⭐ BARBERBOOK PRO
 
-Sem anúncios. Clientes, serviços e barbeiros da equipe sem limite, além de backup para levar tudo para outro celular. 7 dias grátis; cancele quando quiser no Google Play.
+Sem anúncios. Clientes, serviços e barbeiros da equipe sem limite, além de backup para levar tudo para outro celular. Pelo computador você também agenda, move e conclui agendamentos. 7 dias grátis; cancele quando quiser no Google Play.
 
 Desenvolvido por EgeaINC — Gabriel Egea.
 
